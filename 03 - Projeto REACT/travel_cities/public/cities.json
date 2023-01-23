@@ -1,0 +1,97 @@
+{
+    "cities": 
+
+[
+    {
+        "id": 0,
+        "place": "Amsterdam",
+        "country": "The Netherlands",
+        "visited": true,
+        "imageSmall": "AmsterdamSmall.jpg",
+        "imageMap": "Netherlands Map.png",
+        "details": "You can visit: Vondelpark, the tulip Museum, the House of Anne Frank, the Van Gogh Museum, the Rembrandt's House, the Red Light District"
+    },
+    {
+        "id": 1,
+        "place": "New York",
+        "country": "USA",
+        "visited": true,
+        "imageSmall": "New YorkSmall.jpg",
+        "imageMap": "USA Map.png",
+        "details":"You can visit: Central Park, the Chrysler Building, the Rockfeller Center, The Central Station, the Statue of Liberty and the well known Times Square"
+    },
+    {
+        "id": 2,
+        "place": "Paris",
+        "country": "France",
+        "visited": true,
+        "imageSmall": "ParisSmall.jpg",
+        "imageMap": "France Map.png",
+        "details": "You can visit: the Eiffel Tower, les Champs Elysées, the Arch of Triumph, DisneyLand, the Cathedral of Notre Dame, Le Louvres "
+    },
+    {
+        "id": 3,
+        "place": "London",
+        "country": "England",
+        "visited": true,
+        "imageSmall": "LondonSmall.jpg",
+        "imageMap": "England Map.png",
+        "details": "You can visit: Hyde Park, the London Bridge, Picaddily Circus, The Buckingham Palace, the Camden Market, the famous Big Ben, the Westminster Abbey"
+    },
+    {
+        "id": 4,
+        "place": "Lyon",
+        "country": "France",
+        "visited": true,
+        "imageSmall": "LyonSmall.jpg",
+        "imageMap": "France Map.png",
+        "details": "You can visit: the Parc de la Tête D'or, the old City, the Cathedral of Fourvière, the museum of Cinema and Miniatures, the Roman Theater"
+    },
+    {
+        "id": 5,
+        "place": "Madrid",
+        "country": "Spain",
+        "visited": true,
+        "imageSmall": "MadridSmall.jpg",
+        "imageMap": "Spain Map.png",
+        "details": "You can visit: the Parque El Retiro, the Prado's museum, the Atocha railwaystation, the Puertas del Sol, the royal palace, the Plaza Mayor, the el Rastro's Market "
+    },
+    {
+        "id": 6,
+        "place": "Porto",
+        "country": "Portugal",
+        "visited": true,
+        "imageSmall": "PortoSmall.jpg",
+        "imageMap": "Portugal Map.png",
+        "details": "You can visit: the railway station of São Bento,  the Clerics Tower, the famous Bolhão's Market, the Allies' Avenus, the D. Luis' bridge, the Livraria Lello"
+    },
+    {
+        "id": 7,
+        "place": "São Miguel - Açores",
+        "country": "Portugal",
+        "visited": true,
+        "imageSmall": "São MiguelSmall.jpg",
+        "imageMap": "Portugal Map.png",
+        "details": "You can visit: the Furnas, the Seven Cities' Lake, the Terra Nostra Park, the Poça of Dona Beija, the Ribeira dos Caldeirões' Natural Park. "
+        
+    },
+    {
+        "id": 8,
+        "place": "Barcelona",
+        "country": "Spain",
+        "visited": false,
+        "imageSmall": "BarcelonaSmal.jpg",
+        "imageMap": "Spain Map.png",
+        "details": "You can visit: The Guell Park, the Sagrada Familia Temple, The Ramblas, the Montjuic' Castle and Park, The La Boqueria Market, the Casa Mila "
+    },
+    {
+        "id": 9,
+        "place": "Machu Picchu",
+        "country": "Peru",
+        "visited": false,
+        "imageSmall": "Machu PicchuSmall.jpg",
+        "imageMap": "Peru Map.png",
+        "details": "You can visit: I am not sure you can visit something else around but why not just try some typical peruvian food and drinks? "
+    }
+]
+}

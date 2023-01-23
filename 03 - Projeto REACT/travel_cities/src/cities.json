@@ -1,0 +1,82 @@
+[
+    {
+        "id": 0,
+        "city": "Amsterdam",
+        "country": "The Netherlands",
+        "visited": true,
+        "imageSmall": "AmsterdamSmall.jpg",
+        "imageMap": "Netherlands Map.png"
+    },
+    {
+        "id": 1,
+        "city": "New York",
+        "country": "USA",
+        "visited": true,
+        "imageSmall": "New YorkSmall.jpg",
+        "imageMap": "USA Map.png"
+    },
+    {
+        "id": 2,
+        "city": "Paris",
+        "country": "France",
+        "visited": true,
+        "imageSmall": "ParisSmall.jpg",
+        "imageMap": "France Map.png"
+    },
+    {
+        "id": 3,
+        "city": "London",
+        "country": "England",
+        "visited": true,
+        "imageSmall": "LondonSmall.jpg",
+        "imageMap": "England Map.png"
+    },
+    {
+        "id": 4,
+        "city": "Lyon",
+        "country": "France",
+        "visited": true,
+        "imageSmall": "LyonSmall.jpg",
+        "imageMap": "France Map.png"
+    },
+    {
+        "id": 5,
+        "city": "Madrid",
+        "country": "Spain",
+        "visited": true,
+        "imageSmall": "MadridSmall.jpg",
+        "imageMap": "Spain Map.png"
+    },
+    {
+        "id": 6,
+        "city": "Porto",
+        "country": "Portugal",
+        "visited": true,
+        "imageSmall": "PortoSmall.jpg",
+        "imageMap": "Portugal Map.png"
+    },
+    {
+        "id": 7,
+        "city": "São Miguel - Açores",
+        "country": "Portugal",
+        "visited": true,
+        "imageSmall": "São MiguelSmall.jpg",
+        "imageMap": "Portugal Map.png"
+    },
+    {
+        "id": 8,
+        "city": "Barcelona",
+        "country": "Spain",
+        "visited": false,
+        "imageSmall": "BarcelonaSmal.jpg",
+        "imageMap": "Spain Map.png"
+    },
+    {
+        "id": 9,
+        "city": "Machu Picchu",
+        "country": "Peru",
+        "visited": false,
+        "imageSmall": "Machu PicchuSmall.jpg",
+        "imageMap": "Peru Map.png"
+    }
+]
